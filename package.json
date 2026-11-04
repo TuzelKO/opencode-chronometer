@@ -1,6 +1,6 @@
 {
   "name": "@tuzelko/opencode-chronometer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The agent's sense of time: a wall-clock mark inside tool results.",
   "keywords": [
     "opencode",
